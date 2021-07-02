@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "920148545675",
+    "project_id": "parallel-1503f",
+    "storage_bucket": "parallel-1503f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920148545675:android:ffe9c392a009091351448e",
+        "android_client_info": {
+          "package_name": "com.aegispratama.parallel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920148545675-gnm03otpp4a3if02a4al50v76sfnlq5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aegispratama.parallel",
+            "certificate_hash": "f281d78928323c08ad584e2f2ffeecaf48f2ec4f"
+          }
+        },
+        {
+          "client_id": "920148545675-8h0on9qilplm1a5osvqr8980ei2dkqov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyDL531pgy39goXJzNT1qxQVepTa9Fqfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920148545675-8h0on9qilplm1a5osvqr8980ei2dkqov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

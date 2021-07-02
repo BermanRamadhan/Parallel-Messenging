@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="g_app_id" translatable="false">1:920148545675:android:ffe9c392a009091351448e</string>
+    <string name="g_defaultSenderId" translatable="false">743016409928</string>
+    <string name="d_web_client_id" translatable="false">920148545675-8h0on9qilplm1a5osvqr8980ei2dkqov.apps.googleusercontent.com</string>
+    <string name="f_database_url" translatable="false">https://parallel-1503f.firebaseio.com</string>
+    <string name="g_api_key" translatable="false">AIzaSyAyDL531pgy39goXJzNT1qxQVepTa9Fqfo</string>
+    <string name="g_crash_reporting_api_key" translatable="false">change_this</string>
+    <string name="p_id" translatable="false">parallel-1503f</string>
+</resources>
